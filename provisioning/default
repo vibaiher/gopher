@@ -1,0 +1,4 @@
+# file: default.inventory
+
+[functional_programming]
+192.168.33.14
